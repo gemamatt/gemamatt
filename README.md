@@ -1,10 +1,10 @@
 ### Hola 👋, Soy Gema Matt
 #### Front-end Developer
-Recién graduada de Laboratoria como desarrolladora frontend
+Desarrolladora frontend
 
-Habilidades: C++ / REACT / JS / HTML / CSS
+Habilidades: C++ / REACT / JS / HTML / CSS / NODE / APEX / SALESFORCE
 
-- 🌱 Estoy aprendiendo REACT 
+- 🌱 Estoy aprendiendo SALESFORCE
 - 🤔 Necesito ayuda con Cualquier cosa relacionada con lo que estoy aprendiendo actualmente 😅  
 - 📫 Cómo contactarme: gematt.dev@gmail.com 
 - ⚡ Dato curioso: Amo los memes 
